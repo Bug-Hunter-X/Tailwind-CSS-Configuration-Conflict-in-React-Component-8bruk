@@ -1,0 +1,3 @@
+# Tailwind CSS Configuration Conflict in React Component
+
+This repository demonstrates a bug related to Tailwind CSS configuration conflicts when using components across different themes or configurations. The bug occurs because the styles defined in the component might not be applied correctly if the parent component's Tailwind CSS configuration differs. The solution shows how to handle this conflict.
